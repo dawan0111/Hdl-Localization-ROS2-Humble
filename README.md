@@ -4,8 +4,7 @@ This project is an updated version of the HDL localization package to be compati
 
 
 ## Acknowledgment
-Original code from [hdl-localization-ROS2](https://github.com/koide3/hdl_localization).
-ROS2 code from [hdl-localization-ROS2](https://github.com/pyc5714/hdl-localization-ROS2).
----
 
-Feel free to adjust it as needed!
+Original code from [hdl-localization-ROS2](https://github.com/koide3/hdl_localization).
+
+ROS2 code from [hdl-localization-ROS2](https://github.com/pyc5714/hdl-localization-ROS2).
